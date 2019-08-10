@@ -3652,3 +3652,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.10-19.00.05:282][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
 [2019.08.10-19.00.05:333][833]LogPlayLevel: Display: Destroying online subsystem :Context_66
 [2019.08.10-19.00.10:058][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-19.04.36:470][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.08.10-19.04.36:664][738]LogSavePackage: Moving 'C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Minimal_Default_Auto5DEB2A5134AE101F96932B696581F931B.tmp' to 'C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2019.08.10-19.04.36:668][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.234
+[2019.08.10-19.04.36:668][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2019.08.10-19.04.36:671][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Carinha] ([1] browsable assets)...
+[2019.08.10-19.04.36:671][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Carinha]
+[2019.08.10-19.04.36:671][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Carinha" FILE="C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Autosaves/Game/Blueprints/Carinha_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.08.10-19.04.36:762][738]LogSavePackage: Moving 'C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Carinha_Auto5C7B633F04597DC3A4C63B8AB62CD5C63.tmp' to 'C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Autosaves/Game/Blueprints/Carinha_Auto5.uasset'
+[2019.08.10-19.04.36:764][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD_Components] ([1] browsable assets)...
+[2019.08.10-19.04.36:764][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD_Components]
+[2019.08.10-19.04.36:797][738]LogSavePackage: Moving 'C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/HUD_Components_Auto579733573459D7904246BADA2486FDF1D.tmp' to 'C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Autosaves/Game/Blueprints/HUD_Components_Auto5.uasset'
+[2019.08.10-19.04.36:798][738]LogFileHelpers: Auto-saving content packages took 0.128
