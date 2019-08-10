@@ -1,0 +1,56 @@
+topics
+
+Som seria o dificultador no game.
+
+fazer um game com interação de itens
+entregar itens no tempo certo 
+Decorar sequencia (inspector de receita)
+
+itens a serem pegos são narrados
+Posição de itens poder ser aleatoria
+
+Polemica -  existem animais
+-------------------------------------------------------------
+Primeiro esquema será roteirizado para depois gerar em ordem aleatoria
+
+Atrações
+
+- Perna de pau 
+- Mão a mão
+- Contorção
+- Malabares – claves, bolinhas, argolas, bambolê, cometas, devil stick, bandeiras, pratinhos.
+- Acrobacia de solo;
+- Pirâmides humanas
+- Aéreos
+- Pirofagia
+- Palhaços
+- Equilibrio
+- Magico 
+
+Tipos de objetos, 
+
+Colecionaveis,
+não utilizaveis,
+não utilizaveis mas interagem na historia
+
+------ Atrasões selecionadas inicialmente
+Malbares
+	Diablolos
+	Claves
+	bolinhas
+palhaços
+ 	Carrinho de binquedoi
+	buzina
+	torta 
+magico
+ 	Cartas
+	Cartola
+	Coelho 
+
+Objetos
+diabolos , CLaves, bolinhas, carrinho de brinquedo
+buzina, tortaCartas e cartola coelho
+
+----------------------------------
+
+Como mostrar o passar de tempo e fazer visual para erros 
