@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 08/11/19 03:54:40
+=======
+﻿Log file open, 08/10/19 21:13:57
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: CircoProj
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.192613
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.893559
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -120,13 +129,13 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: Intel(R) HD Graphics 530
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 750 Ti
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
-LogInit: Command Line:  -EpicPortal -epicusername=Blasck -epicuserid=b8efc5aa519543b9817e271f6847770e -epiclocale=pt-BR
-LogInit: Base Directory: G:/EpicLibrary/UE_4.22/Engine/Binaries/Win64/
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -156,6 +165,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2019.08.11-06.54.40:301][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.08.11-06.54.40:301][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.08.11-06.54.40:301][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jujuba/Documents/GitHub/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
@@ -662,3 +672,1294 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.11-06.55.45:900][216]LogLinker: Warning: Can't find file '/Game/FirstPerson/Textures/FirstPersonCrosshair'
 [2019.08.11-06.55.45:900][216]LoadErrors: Failed to load /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair Referenced by K2Node_CallFunction_12988
 [2019.08.11-06.55.45:900][216]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Textures/FirstPersonCrosshair' while loading NULL.
+=======
+[2019.08.11-00.14.01:347][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.11-00.14.01:347][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.11-00.14.01:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.11-00.14.01:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:348][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:363][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:363][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.11-00.14.01:363][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.11-00.14.01:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.11-00.14.01:365][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.11-00.14.01:367][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.11-00.14.01:367][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.11-00.14.01:438][  0]LogHAL: Display: Platform has ~ 8 GB [8571179008 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.11-00.14.01:448][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.11-00.14.01:448][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.11-00.14.01:449][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:449][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.11-00.14.01:449][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.11-00.14.01:449][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:449][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.11-00.14.01:449][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.11-00.14.01:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.11-00.14.01:451][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.11-00.14.01:468][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.11-00.14.01:468][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.11-00.14.01:468][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.11-00.14.01:482][  0]LogInit: Computer: DESKTOP-KEOB954
+[2019.08.11-00.14.01:482][  0]LogInit: User: win10
+[2019.08.11-00.14.01:482][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.11-00.14.01:482][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.11-00.14.01:482][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.08.11-00.14.01:482][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.11-00.14.01:482][  0]LogMemory: Process Physical Memory: 97.55 MB used, 97.55 MB peak
+[2019.08.11-00.14.01:482][  0]LogMemory: Process Virtual Memory: 89.00 MB used, 89.00 MB peak
+[2019.08.11-00.14.01:482][  0]LogMemory: Physical Memory: 4078.45 MB used,  4095.66 MB free, 8174.11 MB total
+[2019.08.11-00.14.01:482][  0]LogMemory: Virtual Memory: 4656.38 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.08.11-00.14.02:529][  0]LogInit: Using OS detected language (pt-BR).
+[2019.08.11-00.14.02:529][  0]LogInit: Using OS detected locale (pt-BR).
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2019.08.11-00.14.03:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.11-00.14.03:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.11-00.14.03:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.11-00.14.03:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.11-00.14.03:041][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.11-00.14.03:740][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.11-00.14.03:740][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.11-00.14.09:141][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.11-00.14.09:141][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.11-00.14.09:227][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2019.08.11-00.14.09:227][  0]LogD3D11RHI:       2007/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.11-00.14.09:230][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.11-00.14.09:230][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.11-00.14.09:230][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.11-00.14.09:255][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.11-00.14.09:255][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.11-00.14.09:255][  0]LogWindows: EnumDisplayDevices:
+[2019.08.11-00.14.09:255][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2019.08.11-00.14.09:255][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.08.11-00.14.09:256][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.08.11-00.14.09:256][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.08.11-00.14.09:256][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2019.08.11-00.14.09:256][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.08.11-00.14.09:256][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.08.11-00.14.09:256][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.08.11-00.14.09:346][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.11-00.14.09:447][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.11-00.14.09:453][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.11-00.14.09:454][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.11-00.14.09:528][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.11-00.14.12:277][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.11-00.14.12:313][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.11-00.14.12:353][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.11-00.14.12:391][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.11-00.14.12:471][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.11-00.14.12:522][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.11-00.14.12:556][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.11-00.14.12:598][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.11-00.14.12:627][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.11-00.14.12:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.11-00.14.12:924][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.11-00.14.13:124][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.11-00.14.13:124][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.11-00.14.13:179][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.11-00.14.13:180][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.11-00.14.13:213][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.11-00.14.13:241][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.11-00.14.13:296][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.11-00.14.13:358][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.11-00.14.13:451][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.11-00.14.13:452][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.11-00.14.13:452][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.11-00.14.13:759][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.11-00.14.14:507][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Intermediate/Shaders/WorkingDirectory/11096/).
+[2019.08.11-00.14.14:507][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/win10/AppData/Local/Temp/UnrealShaderWorkingDir/8302AE6F4A508AAD69A50BA0F2B0443E/'.
+[2019.08.11-00.14.14:532][  0]LogXGEController: Cleaning working directory: C:/Users/win10/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.11-00.14.14:532][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.11-00.14.14:532][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.11-00.14.14:532][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.11-00.14.19:044][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.11-00.14.19:789][  0]LogDerivedDataCache: Loaded boot cache 0.72s 71MB C:/Users/win10/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.11-00.14.19:789][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/win10/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.11-00.14.19:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.11-00.14.19:789][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.11-00.14.19:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.11-00.14.19:789][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.11-00.14.19:881][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.11-00.14.19:881][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.11-00.14.19:881][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.11-00.14.19:921][  0]LogDerivedDataCache: Using Local data cache path C:/Users/win10/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.11-00.14.19:921][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.11-00.14.19:921][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.11-00.14.19:974][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.11-00.14.20:007][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.11-00.14.20:179][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.11-00.14.22:546][  0]LogAssetRegistry: FAssetRegistry took 0.0461 seconds to start up
+[2019.08.11-00.14.29:370][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.11-00.14.35:799][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.11-00.14.35:799][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.11-00.14.35:799][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.11-00.14.35:799][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.11-00.14.35:809][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.11-00.14.37:306][  0]LogNetVersion: CircoProj 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 875541996)
+[2019.08.11-00.14.47:870][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.366243 seconds
+[2019.08.11-00.14.47:889][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.11-00.14.47:889][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.11-00.14.47:889][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.11-00.15.32:481][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.11-00.15.32:652][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.11-00.15.34:105][  0]SourceControl: Controle de origem desativado
+[2019.08.11-00.15.34:117][  0]SourceControl: Controle de origem desativado
+[2019.08.11-00.15.34:616][  0]SourceControl: Controle de origem desativado
+[2019.08.11-00.15.34:848][  0]SourceControl: Controle de origem desativado
+[2019.08.11-00.15.38:906][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.11-00.15.40:137][  0]LogOcInput: OculusInput pre-init called
+[2019.08.11-00.15.42:861][  0]LogEngine: Initializing Engine...
+[2019.08.11-00.15.42:885][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.11-00.15.42:914][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.08.11-00.15.43:278][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.11-00.15.44:131][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.11-00.15.44:631][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.11-00.15.44:719][  0]LogInit: FAudioDevice initialized.
+[2019.08.11-00.15.44:719][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.11-00.15.45:089][  0]LogDerivedDataCache: Saved boot cache 0.37s 71MB C:/Users/win10/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.11-00.15.45:095][  0]LogInit: Texture streaming: Enabled
+[2019.08.11-00.15.45:566][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.11-00.15.46:484][  0]LogInit: Transaction tracking system initialized
+[2019.08.11-00.15.46:913][  0]BlueprintLog: New page: Carregar Editor
+[2019.08.11-00.15.48:027][  0]LocalizationService: Localization service is disabled
+[2019.08.11-00.15.50:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/' took 0.02s
+[2019.08.11-00.15.50:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.11-00.15.50:000][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.11-00.15.56:283][  0]SourceControl: Controle de origem desativado
+[2019.08.11-00.15.56:701][  0]LogSlate: Took 0.083846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.11-00.18.33:148][  0]LogSlate: Window 'Restaurar Pacotes' being destroyed
+[2019.08.11-00.18.33:167][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.11-00.18.33:201][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.11-00.18.33:234][  0]Cmd: MAP LOAD FILE="../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.11-00.18.33:235][  0]LightingResults: New page: Compilação de Iluminação
+[2019.08.11-00.18.33:423][  0]MapCheck: New page: Verificação de Mapa
+[2019.08.11-00.18.33:423][  0]LightingResults: New page: Compilação de Iluminação
+[2019.08.11-00.18.33:810][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.08.11-00.18.34:832][  0]LogStaticMesh: Criando malha estática Floor_400x400...
+[2019.08.11-00.18.34:850][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.08.11-00.18.34:884][  0]LogMaterial: Display: Missing cached shader map for material iten1_5, compiling. 
+[2019.08.11-00.18.34:981][  0]LogMaterial: Display: Missing cached shader map for material iten1_4, compiling. 
+[2019.08.11-00.18.34:998][  0]LogMaterial: Display: Missing cached shader map for material iten1_3, compiling. 
+[2019.08.11-00.18.35:016][  0]LogMaterial: Display: Missing cached shader map for material iten1_2, compiling. 
+[2019.08.11-00.18.35:036][  0]LogMaterial: Display: Missing cached shader map for material iten1, compiling. 
+[2019.08.11-00.18.35:054][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.11-00.18.35:850][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.11-00.18.36:120][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.08.11-00.18.36:120][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.11-00.18.36:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,189ms to complete.
+[2019.08.11-00.18.36:121][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.905
+[2019.08.11-00.18.38:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-00.18.38:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-00.18.38:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-00.18.38:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-00.18.39:178][  0]LogCollectionManager: Loaded 0 collections in 0.002794 seconds
+[2019.08.11-00.18.39:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Collections/' took 0.01s
+[2019.08.11-00.18.39:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Developers/win10/Collections/' took 0.01s
+[2019.08.11-00.18.39:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Collections/' took 0.01s
+[2019.08.11-00.18.39:670][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.11-00.18.39:706][  0]LogContentBrowser: Native class hierarchy populated in 0.0251 seconds. Added 2732 classes and 659 folders.
+[2019.08.11-00.18.39:837][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.11-00.18.39:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.40:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.41:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.41:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.41:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.41:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.41:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.11-00.18.42:936][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.11-00.18.43:013][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.08.11-00.18.43:599][  0]LogSlate: Took 0.056582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.11-00.18.43:650][  0]LogSlate: Took 0.022909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.11-00.18.44:268][  0]LogRenderer: Reallocating scene render targets to support 648x544 Format 10 NumSamples 1 (Frame:1).
+[2019.08.11-00.18.45:030][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.08.11-00.18.45:030][  0]LogLoad: (Engine Initialization) Total time: 316.99 seconds
+[2019.08.11-00.18.45:030][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.11-00.18.45:315][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.11-00.18.45:462][  0]LogSlate: Took 0.091190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.11-00.18.45:704][  2]LogAssetRegistry: Asset discovery search completed in 263.1809 seconds
+[2019.08.11-00.18.45:712][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2019.08.11-00.18.45:713][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000212 seconds (updated 0 objects)
+[2019.08.11-00.18.46:111][ 26]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.11-00.19.05:670][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-00.41.46:848][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-00.41.48:400][111]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-00.41.48:477][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-00.41.48:498][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-00.41.48:537][111]PIE: New page: Sessão de PIE : Minimal_Default (10/08/2019 18:41:48)
+[2019.08.11-00.41.48:592][111]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.11-00.41.48:597][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004608s)
+[2019.08.11-00.41.48:599][111]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.11-00.41.48:599][111]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2019.08.11-00.41.48:599][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006672s)
+[2019.08.11-00.41.48:723][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.11-00.41.48:775][111]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.11-00.41.48:784][111]LogInit: FAudioDevice initialized.
+[2019.08.11-00.41.48:784][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-00.41.48:849][111]LogLoad: Game class is 'GamemodeReal_C'
+[2019.08.11-00.41.48:863][111]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.10-21.41.48
+[2019.08.11-00.41.48:877][111]LogWorld: Bringing up level for play took: 0.015045
+[2019.08.11-00.41.48:969][111]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.08.11-00.41.48:969][111]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-00.41.48:969][111]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-00.41.48:969][111]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-00.41.49:067][111]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-00.41.49:076][111]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,688
+[2019.08.11-00.41.49:076][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-00.42.08:777][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-00.42.08:778][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-00.42.08:808][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-00.42.08:808][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-00.42.08:932][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-00.42.08:937][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.08.11-00.42.08:982][440]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.08.11-00.42.16:511][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-00.42.24:157][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-00.56.49:473][218]AssetReimport: New page: Outstanding source content changes 18:56:49
+[2019.08.11-00.56.49:476][218]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Import/Cenario.fbx)
+[2019.08.11-00.56.49:492][218]LogFbx: Loading FBX Scene from C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Import/Cenario.fbx
+[2019.08.11-00.56.49:523][218]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.11-00.57.04:569][218]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2019.08.11-00.57.05:032][218]LogStaticMesh: Criando malha estática Cenario_Paredes1...
+[2019.08.11-00.57.05:034][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Paredes1.Cenario_Paredes1
+[2019.08.11-00.57.05:051][218]LogStaticMesh: Criando malha estática Cenario_pSphere2...
+[2019.08.11-00.57.05:053][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_pSphere2.Cenario_pSphere2
+[2019.08.11-00.57.05:072][218]LogStaticMesh: Criando malha estática Cenario_pSphere1...
+[2019.08.11-00.57.05:074][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_pSphere1.Cenario_pSphere1
+[2019.08.11-00.57.05:088][218]LogStaticMesh: Criando malha estática Cenario_pCube2...
+[2019.08.11-00.57.05:089][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_pCube2.Cenario_pCube2
+[2019.08.11-00.57.05:108][218]LogStaticMesh: Criando malha estática Cenario_pCube1...
+[2019.08.11-00.57.05:110][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_pCube1.Cenario_pCube1
+[2019.08.11-00.57.05:380][218]LogStaticMesh: Criando malha estática Cenario_Mesa_pano...
+[2019.08.11-00.57.05:425][218]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Import/Cenario_Mesa_pano.Cenario_Mesa_pano
+[2019.08.11-00.57.05:477][218]LogStaticMesh: Criando malha estática Cenario_Capeu...
+[2019.08.11-00.57.05:487][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Capeu.Cenario_Capeu
+[2019.08.11-00.57.05:538][218]LogStaticMesh: Criando malha estática Cenario_Bola...
+[2019.08.11-00.57.05:548][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Bola.Cenario_Bola
+[2019.08.11-00.57.05:596][218]LogStaticMesh: Criando malha estática Cenario_Buzina...
+[2019.08.11-00.57.05:604][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Buzina.Cenario_Buzina
+[2019.08.11-00.57.05:625][218]LogStaticMesh: Criando malha estática Cenario_Vassoura...
+[2019.08.11-00.57.05:630][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Vassoura.Cenario_Vassoura
+[2019.08.11-00.57.05:650][218]LogStaticMesh: Criando malha estática Cenario_Baralho...
+[2019.08.11-00.57.05:651][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Baralho.Cenario_Baralho
+[2019.08.11-00.57.05:691][218]LogStaticMesh: Criando malha estática Cenario_Bambole...
+[2019.08.11-00.57.05:695][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Bambole.Cenario_Bambole
+[2019.08.11-00.57.05:741][218]LogStaticMesh: Criando malha estática Cenario_Mazza...
+[2019.08.11-00.57.05:750][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Mazza.Cenario_Mazza
+[2019.08.11-00.57.05:781][218]LogStaticMesh: Criando malha estática Cenario_Tapete...
+[2019.08.11-00.57.05:785][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Tapete.Cenario_Tapete
+[2019.08.11-00.57.05:825][218]LogStaticMesh: Criando malha estática Cenario_Cadeira...
+[2019.08.11-00.57.05:841][218]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Import/Cenario_Cadeira.Cenario_Cadeira
+[2019.08.11-00.57.05:875][218]LogStaticMesh: Criando malha estática Cenario_Prateleira...
+[2019.08.11-00.57.05:880][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Prateleira.Cenario_Prateleira
+[2019.08.11-00.57.06:070][218]LogStaticMesh: Criando malha estática Cenario_Uniciclo...
+[2019.08.11-00.57.06:143][218]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Import/Cenario_Uniciclo.Cenario_Uniciclo
+[2019.08.11-00.57.06:204][218]LogStaticMesh: Criando malha estática Cenario_Carrafa...
+[2019.08.11-00.57.06:214][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Carrafa.Cenario_Carrafa
+[2019.08.11-00.57.06:230][218]LogStaticMesh: Criando malha estática Cenario_Cano...
+[2019.08.11-00.57.06:242][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Cano.Cenario_Cano
+[2019.08.11-00.57.06:267][218]LogStaticMesh: Criando malha estática Cenario_Gaveta...
+[2019.08.11-00.57.06:276][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Gaveta.Cenario_Gaveta
+[2019.08.11-00.57.06:411][218]LogStaticMesh: Criando malha estática Cenario_Armario...
+[2019.08.11-00.57.06:440][218]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Import/Cenario_Armario.Cenario_Armario
+[2019.08.11-00.57.06:627][218]LogStaticMesh: Criando malha estática Cenario_Salto...
+[2019.08.11-00.57.06:642][218]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Import/Cenario_Salto.Cenario_Salto
+[2019.08.11-00.57.06:667][218]LogStaticMesh: Criando malha estática Cenario_Batom...
+[2019.08.11-00.57.06:670][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Batom.Cenario_Batom
+[2019.08.11-00.57.06:803][218]LogStaticMesh: Criando malha estática Cenario_Salto1...
+[2019.08.11-00.57.06:815][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Salto1.Cenario_Salto1
+[2019.08.11-00.57.06:934][218]LogStaticMesh: Criando malha estática Cenario_Porta_Chapeu...
+[2019.08.11-00.57.06:940][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Porta_Chapeu.Cenario_Porta_Chapeu
+[2019.08.11-00.57.07:060][218]LogStaticMesh: Criando malha estática Cenario_Pandeiro...
+[2019.08.11-00.57.07:070][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_Pandeiro.Cenario_Pandeiro
+[2019.08.11-00.57.07:201][218]LogStaticMesh: Criando malha estática Cenario_Vaso...
+[2019.08.11-00.57.07:243][218]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Import/Cenario_Vaso.Cenario_Vaso
+[2019.08.11-00.57.07:264][218]LogStaticMesh: Criando malha estática Cenario_Baqueta...
+[2019.08.11-00.57.07:267][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Baqueta.Cenario_Baqueta
+[2019.08.11-00.57.07:285][218]LogStaticMesh: Criando malha estática Cenario_Baqueta2...
+[2019.08.11-00.57.07:288][218]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Import/Cenario_Baqueta2.Cenario_Baqueta2
+[2019.08.11-00.57.07:333][218]LogStaticMesh: Criando malha estática Cenario_pCube3...
+[2019.08.11-00.57.07:338][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Import/Cenario_pCube3.Cenario_pCube3
+[2019.08.11-00.57.07:435][218]LogStaticMesh: Criando malha estática Cenario_Violão...
+[2019.08.11-00.57.07:470][218]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Import/Cenario_Violão.Cenario_Violão
+[2019.08.11-00.57.07:858][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Import/Cenario" FILE="../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Import/Cenario.uasset" SILENT=true
+[2019.08.11-00.57.07:924][219]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario6324C19047976176A5789EB20351031A.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Import/Cenario.uasset'
+[2019.08.11-00.57.10:944][447]AssetReimport: Importing new asset /Game/Assets/Import/Cenario.
+[2019.08.11-00.57.54:397][216]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2019.08.11-00.57.54:402][216]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2019.08.11-00.58.21:477][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.08.11-00.58.21:477][697]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.104
+[2019.08.11-00.58.21:500][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Paredes1] ([1] browsable assets)...
+[2019.08.11-00.58.21:583][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Paredes1.Cenario_Paredes1]
+[2019.08.11-00.58.21:583][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Paredes1]
+[2019.08.11-00.58.21:606][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Paredes1_Auto1080FD01245283D5FD56F099F2837D890.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Paredes1_Auto1.uasset'
+[2019.08.11-00.58.21:608][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/lambert1] ([1] browsable assets)...
+[2019.08.11-00.58.21:663][697]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Import/lambert1.lambert1]
+[2019.08.11-00.58.21:663][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/lambert1]
+[2019.08.11-00.58.21:685][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/lambert1_Auto169A3F7FF49AF013DD64268A603D607E6.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/lambert1_Auto1.uasset'
+[2019.08.11-00.58.21:687][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_pSphere2] ([1] browsable assets)...
+[2019.08.11-00.58.21:741][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_pSphere2.Cenario_pSphere2]
+[2019.08.11-00.58.21:741][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_pSphere2]
+[2019.08.11-00.58.21:762][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_pSphere2_Auto1C4CA490F4BCF6CE1BC515AA6FBC28A17.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_pSphere2_Auto1.uasset'
+[2019.08.11-00.58.21:777][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_pSphere1] ([1] browsable assets)...
+[2019.08.11-00.58.21:824][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_pSphere1.Cenario_pSphere1]
+[2019.08.11-00.58.21:824][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_pSphere1]
+[2019.08.11-00.58.21:846][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_pSphere1_Auto1ECAAE42B42C74E2D634EE3B930641CC1.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_pSphere1_Auto1.uasset'
+[2019.08.11-00.58.21:848][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_pCube2] ([1] browsable assets)...
+[2019.08.11-00.58.21:897][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_pCube2.Cenario_pCube2]
+[2019.08.11-00.58.21:897][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_pCube2]
+[2019.08.11-00.58.21:923][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_pCube2_Auto19358D40D4DA01D1B150AD583E2BF84DF.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_pCube2_Auto1.uasset'
+[2019.08.11-00.58.21:926][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_pCube1] ([1] browsable assets)...
+[2019.08.11-00.58.21:973][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_pCube1.Cenario_pCube1]
+[2019.08.11-00.58.21:973][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_pCube1]
+[2019.08.11-00.58.21:995][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_pCube1_Auto107796EAA468CA2B8E859FC951C4029FF.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_pCube1_Auto1.uasset'
+[2019.08.11-00.58.21:997][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Mesa_pano] ([1] browsable assets)...
+[2019.08.11-00.58.22:044][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Mesa_pano.Cenario_Mesa_pano]
+[2019.08.11-00.58.22:044][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Mesa_pano]
+[2019.08.11-00.58.22:076][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Mesa_pano_Auto19FB32899452E1CD88D196E9A05ACD2B3.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Mesa_pano_Auto1.uasset'
+[2019.08.11-00.58.22:078][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Default_Material] ([1] browsable assets)...
+[2019.08.11-00.58.22:127][697]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Import/Default_Material.Default_Material]
+[2019.08.11-00.58.22:127][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Default_Material]
+[2019.08.11-00.58.22:150][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Default_Material_Auto1ADEF67ED478B4AE03AD7BBAB62D61D67.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Default_Material_Auto1.uasset'
+[2019.08.11-00.58.22:152][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Capeu] ([1] browsable assets)...
+[2019.08.11-00.58.22:203][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Capeu.Cenario_Capeu]
+[2019.08.11-00.58.22:203][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Capeu]
+[2019.08.11-00.58.22:227][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Capeu_Auto191B35F5040B0920F88F846927F25E26C.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Capeu_Auto1.uasset'
+[2019.08.11-00.58.22:229][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Bola] ([1] browsable assets)...
+[2019.08.11-00.58.22:277][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Bola.Cenario_Bola]
+[2019.08.11-00.58.22:277][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Bola]
+[2019.08.11-00.58.22:302][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Bola_Auto18CEEBC084BCFC1DF17D602B23F523694.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Bola_Auto1.uasset'
+[2019.08.11-00.58.22:304][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Buzina] ([1] browsable assets)...
+[2019.08.11-00.58.22:353][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Buzina.Cenario_Buzina]
+[2019.08.11-00.58.22:353][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Buzina]
+[2019.08.11-00.58.22:399][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Buzina_Auto1845230F043EA1495B9BCCA80AFF11BAF.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Buzina_Auto1.uasset'
+[2019.08.11-00.58.22:401][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Vassoura] ([1] browsable assets)...
+[2019.08.11-00.58.22:447][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Vassoura.Cenario_Vassoura]
+[2019.08.11-00.58.22:447][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Vassoura]
+[2019.08.11-00.58.22:469][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Vassoura_Auto1D893746F455589630B607CBC819BB6D9.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Vassoura_Auto1.uasset'
+[2019.08.11-00.58.22:471][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Baralho] ([1] browsable assets)...
+[2019.08.11-00.58.22:518][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Baralho.Cenario_Baralho]
+[2019.08.11-00.58.22:518][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Baralho]
+[2019.08.11-00.58.22:538][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Baralho_Auto14F7A6B5A450EC574C7C788B175B2EBB2.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Baralho_Auto1.uasset'
+[2019.08.11-00.58.22:540][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Bambole] ([1] browsable assets)...
+[2019.08.11-00.58.22:588][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Bambole.Cenario_Bambole]
+[2019.08.11-00.58.22:589][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Bambole]
+[2019.08.11-00.58.22:621][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Bambole_Auto113D2B2BC42706F7753B577B3E459E1B4.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Bambole_Auto1.uasset'
+[2019.08.11-00.58.22:623][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Mazza] ([1] browsable assets)...
+[2019.08.11-00.58.22:670][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Mazza.Cenario_Mazza]
+[2019.08.11-00.58.22:670][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Mazza]
+[2019.08.11-00.58.22:691][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Mazza_Auto1310FDB6C4E177D144ECCD7924A79606E.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Mazza_Auto1.uasset'
+[2019.08.11-00.58.22:693][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Tapete] ([1] browsable assets)...
+[2019.08.11-00.58.22:741][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Tapete.Cenario_Tapete]
+[2019.08.11-00.58.22:741][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Tapete]
+[2019.08.11-00.58.22:763][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Tapete_Auto19ED372B242B6AC4108FB9D8BCC5AA98E.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Tapete_Auto1.uasset'
+[2019.08.11-00.58.22:815][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Cadeira] ([1] browsable assets)...
+[2019.08.11-00.58.22:868][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Cadeira.Cenario_Cadeira]
+[2019.08.11-00.58.22:868][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Cadeira]
+[2019.08.11-00.58.22:918][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Cadeira_Auto1F7158C63494F493DF27BBA904B4036FD.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Cadeira_Auto1.uasset'
+[2019.08.11-00.58.22:920][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Prateleira] ([1] browsable assets)...
+[2019.08.11-00.58.22:971][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Prateleira.Cenario_Prateleira]
+[2019.08.11-00.58.22:972][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Prateleira]
+[2019.08.11-00.58.23:002][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Prateleira_Auto1CC9F9BCB41916CA0382863B8575FC551.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Prateleira_Auto1.uasset'
+[2019.08.11-00.58.23:004][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Uniciclo] ([1] browsable assets)...
+[2019.08.11-00.58.23:058][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Uniciclo.Cenario_Uniciclo]
+[2019.08.11-00.58.23:058][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Uniciclo]
+[2019.08.11-00.58.23:097][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Uniciclo_Auto15523809E43C2E83AF1915D94BEFBB469.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Uniciclo_Auto1.uasset'
+[2019.08.11-00.58.23:099][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Carrafa] ([1] browsable assets)...
+[2019.08.11-00.58.23:145][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Carrafa.Cenario_Carrafa]
+[2019.08.11-00.58.23:145][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Carrafa]
+[2019.08.11-00.58.23:171][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Carrafa_Auto174ADE84143E0DD34D1135497A5209EBB.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Carrafa_Auto1.uasset'
+[2019.08.11-00.58.23:174][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Cano] ([1] browsable assets)...
+[2019.08.11-00.58.23:224][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Cano.Cenario_Cano]
+[2019.08.11-00.58.23:224][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Cano]
+[2019.08.11-00.58.23:248][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Cano_Auto1016B114B48391FAF180C8CAEF82DD762.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Cano_Auto1.uasset'
+[2019.08.11-00.58.23:251][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Gaveta] ([1] browsable assets)...
+[2019.08.11-00.58.23:298][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Gaveta.Cenario_Gaveta]
+[2019.08.11-00.58.23:298][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Gaveta]
+[2019.08.11-00.58.23:323][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Gaveta_Auto14246D22F44A18FD3FEDF86804A30A8D7.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Gaveta_Auto1.uasset'
+[2019.08.11-00.58.23:326][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Armario] ([1] browsable assets)...
+[2019.08.11-00.58.23:374][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Armario.Cenario_Armario]
+[2019.08.11-00.58.23:374][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Armario]
+[2019.08.11-00.58.23:410][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Armario_Auto1E287D3C34AD359C2921A3EA65C7F0234.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Armario_Auto1.uasset'
+[2019.08.11-00.58.23:414][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Salto] ([1] browsable assets)...
+[2019.08.11-00.58.23:465][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Salto.Cenario_Salto]
+[2019.08.11-00.58.23:465][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Salto]
+[2019.08.11-00.58.23:491][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Salto_Auto1BDCDEB574B17059AAA20958D43531B40.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Salto_Auto1.uasset'
+[2019.08.11-00.58.23:494][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Batom] ([1] browsable assets)...
+[2019.08.11-00.58.23:544][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Batom.Cenario_Batom]
+[2019.08.11-00.58.23:544][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Batom]
+[2019.08.11-00.58.23:568][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Batom_Auto13D5A56AE4DECDEECB35D78887A58C05F.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Batom_Auto1.uasset'
+[2019.08.11-00.58.23:570][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Salto1] ([1] browsable assets)...
+[2019.08.11-00.58.23:619][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Salto1.Cenario_Salto1]
+[2019.08.11-00.58.23:619][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Salto1]
+[2019.08.11-00.58.23:641][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Salto1_Auto1532691BF4781661D43FC10B96BE43E35.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Salto1_Auto1.uasset'
+[2019.08.11-00.58.23:646][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Porta_Chapeu] ([1] browsable assets)...
+[2019.08.11-00.58.23:692][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Porta_Chapeu.Cenario_Porta_Chapeu]
+[2019.08.11-00.58.23:692][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Porta_Chapeu]
+[2019.08.11-00.58.23:713][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Porta_Chapeu_Auto196B71D194BF98850F3E33ABA36449D39.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Porta_Chapeu_Auto1.uasset'
+[2019.08.11-00.58.23:715][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Pandeiro] ([1] browsable assets)...
+[2019.08.11-00.58.23:761][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Pandeiro.Cenario_Pandeiro]
+[2019.08.11-00.58.23:762][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Pandeiro]
+[2019.08.11-00.58.23:794][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Pandeiro_Auto1E829608648D46E06A461A989134CE3FE.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Pandeiro_Auto1.uasset'
+[2019.08.11-00.58.23:796][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Vaso] ([1] browsable assets)...
+[2019.08.11-00.58.23:844][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Vaso.Cenario_Vaso]
+[2019.08.11-00.58.23:844][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Vaso]
+[2019.08.11-00.58.23:870][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Vaso_Auto1730EFA60440F38AA378B4F9517517F11.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Vaso_Auto1.uasset'
+[2019.08.11-00.58.23:873][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Baqueta] ([1] browsable assets)...
+[2019.08.11-00.58.23:918][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Baqueta.Cenario_Baqueta]
+[2019.08.11-00.58.23:918][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Baqueta]
+[2019.08.11-00.58.23:949][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Baqueta_Auto1A61FB51D4534C21E732C0AAF504FEE66.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Baqueta_Auto1.uasset'
+[2019.08.11-00.58.23:952][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Baqueta2] ([1] browsable assets)...
+[2019.08.11-00.58.24:000][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Baqueta2.Cenario_Baqueta2]
+[2019.08.11-00.58.24:000][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Baqueta2]
+[2019.08.11-00.58.24:022][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Baqueta2_Auto11A04809544F0CD5AA455CFB543873B5E.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Baqueta2_Auto1.uasset'
+[2019.08.11-00.58.24:024][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_pCube3] ([1] browsable assets)...
+[2019.08.11-00.58.24:068][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_pCube3.Cenario_pCube3]
+[2019.08.11-00.58.24:068][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_pCube3]
+[2019.08.11-00.58.24:113][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_pCube3_Auto1AD6FD70545D7F1A670F2A2B5D5D63E9D.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_pCube3_Auto1.uasset'
+[2019.08.11-00.58.24:115][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Import/Cenario_Violão] ([1] browsable assets)...
+[2019.08.11-00.58.24:161][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Import/Cenario_Violão.Cenario_Violão]
+[2019.08.11-00.58.24:161][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Import/Cenario_Violão]
+[2019.08.11-00.58.24:188][697]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cenario_Violão_Auto1A7FEA77B4C2530A18197DEA939A3CA40.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/Import/Cenario_Violão_Auto1.uasset'
+[2019.08.11-00.58.24:190][697]LogFileHelpers: Auto-saving content packages took 2.711
+[2019.08.11-00.58.58:514][162]LogActorFactory: Actor Factory created Cenario_Paredes1
+[2019.08.11-00.58.59:476][276]LogActorFactory: Actor Factory created Cenario_Paredes1
+[2019.08.11-00.59.03:685][717]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.11-00.59.06:651][ 66]Cmd: DELETE
+[2019.08.11-00.59.06:651][ 66]Cmd: ACTOR DELETE
+[2019.08.11-00.59.06:655][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.11-00.59.06:785][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.08.11-00.59.06:785][ 66]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2019.08.11-00.59.10:231][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.11-00.59.11:358][604]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.11-00.59.16:122][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-00.59.16:359][980]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Import/Cenario_Mesa_pano.Cenario_Mesa_pano
+[2019.08.11-00.59.17:610][980]LogSlate: Took 0.034859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.11-00.59.22:374][364]LogSlate: Window 'Cenario_Mesa_pano' being destroyed
+[2019.08.11-00.59.22:379][364]LogSlate: Window 'Cenario_Mesa_pano' being destroyed
+[2019.08.11-00.59.42:625][604]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Import/Cenario_Armario.Cenario_Armario
+[2019.08.11-00.59.46:179][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-00.59.52:522][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-00.59.52:611][397]LogSlate: Window 'Cenario_Armario' being destroyed
+[2019.08.11-00.59.52:617][397]LogSlate: Window 'Cenario_Armario' being destroyed
+[2019.08.11-01.02.16:202][154]AssetReimport: New page: Outstanding source content changes 19:02:16
+[2019.08.11-01.02.16:205][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/FBX/Camarim.fbx)
+[2019.08.11-01.02.16:217][154]LogFbx: Loading FBX Scene from C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/FBX/Camarim.fbx
+[2019.08.11-01.02.16:247][154]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.11-01.02.46:569][154]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2019.08.11-01.02.46:660][154]LogStaticMesh: Criando malha estática Camarim_Paredes1...
+[2019.08.11-01.02.46:662][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_Paredes1.Camarim_Paredes1
+[2019.08.11-01.02.46:685][154]LogStaticMesh: Criando malha estática Camarim_pSphere2...
+[2019.08.11-01.02.46:687][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_pSphere2.Camarim_pSphere2
+[2019.08.11-01.02.46:697][154]LogStaticMesh: Criando malha estática Camarim_pSphere1...
+[2019.08.11-01.02.46:699][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_pSphere1.Camarim_pSphere1
+[2019.08.11-01.02.46:708][154]LogStaticMesh: Criando malha estática Camarim_pCube2...
+[2019.08.11-01.02.46:709][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_pCube2.Camarim_pCube2
+[2019.08.11-01.02.46:721][154]LogStaticMesh: Criando malha estática Camarim_pCube1...
+[2019.08.11-01.02.46:724][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_pCube1.Camarim_pCube1
+[2019.08.11-01.02.46:996][154]LogStaticMesh: Criando malha estática Camarim_Mesa_pano...
+[2019.08.11-01.02.47:044][154]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/FBX/Camarim_Mesa_pano.Camarim_Mesa_pano
+[2019.08.11-01.02.47:097][154]LogStaticMesh: Criando malha estática Camarim_Capeu...
+[2019.08.11-01.02.47:107][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Capeu.Camarim_Capeu
+[2019.08.11-01.02.47:159][154]LogStaticMesh: Criando malha estática Camarim_Bola...
+[2019.08.11-01.02.47:169][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Bola.Camarim_Bola
+[2019.08.11-01.02.47:201][154]LogStaticMesh: Criando malha estática Camarim_Buzina...
+[2019.08.11-01.02.47:207][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Buzina.Camarim_Buzina
+[2019.08.11-01.02.47:222][154]LogStaticMesh: Criando malha estática Camarim_Vassoura...
+[2019.08.11-01.02.47:228][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Vassoura.Camarim_Vassoura
+[2019.08.11-01.02.47:244][154]LogStaticMesh: Criando malha estática Camarim_Baralho...
+[2019.08.11-01.02.47:246][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_Baralho.Camarim_Baralho
+[2019.08.11-01.02.47:282][154]LogStaticMesh: Criando malha estática Camarim_Bambole...
+[2019.08.11-01.02.47:287][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_Bambole.Camarim_Bambole
+[2019.08.11-01.02.47:376][154]LogStaticMesh: Criando malha estática Camarim_Mazza...
+[2019.08.11-01.02.47:383][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Mazza.Camarim_Mazza
+[2019.08.11-01.02.47:407][154]LogStaticMesh: Criando malha estática Camarim_Tapete...
+[2019.08.11-01.02.47:411][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_Tapete.Camarim_Tapete
+[2019.08.11-01.02.47:452][154]LogStaticMesh: Criando malha estática Camarim_Cadeira...
+[2019.08.11-01.02.47:466][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Cadeira.Camarim_Cadeira
+[2019.08.11-01.02.47:480][154]LogStaticMesh: Criando malha estática Camarim_Prateleira...
+[2019.08.11-01.02.47:487][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Prateleira.Camarim_Prateleira
+[2019.08.11-01.02.47:654][154]LogStaticMesh: Criando malha estática Camarim_Uniciclo...
+[2019.08.11-01.02.47:717][154]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/FBX/Camarim_Uniciclo.Camarim_Uniciclo
+[2019.08.11-01.02.47:762][154]LogStaticMesh: Criando malha estática Camarim_Carrafa...
+[2019.08.11-01.02.47:772][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Carrafa.Camarim_Carrafa
+[2019.08.11-01.02.47:783][154]LogStaticMesh: Criando malha estática Camarim_Cano...
+[2019.08.11-01.02.47:790][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Cano.Camarim_Cano
+[2019.08.11-01.02.47:819][154]LogStaticMesh: Criando malha estática Camarim_Gaveta...
+[2019.08.11-01.02.47:824][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Gaveta.Camarim_Gaveta
+[2019.08.11-01.02.47:957][154]LogStaticMesh: Criando malha estática Camarim_Armario...
+[2019.08.11-01.02.47:980][154]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/FBX/Camarim_Armario.Camarim_Armario
+[2019.08.11-01.02.48:005][154]LogStaticMesh: Criando malha estática Camarim_Salto...
+[2019.08.11-01.02.48:017][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Salto.Camarim_Salto
+[2019.08.11-01.02.48:027][154]LogStaticMesh: Criando malha estática Camarim_Batom...
+[2019.08.11-01.02.48:034][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Batom.Camarim_Batom
+[2019.08.11-01.02.48:058][154]LogStaticMesh: Criando malha estática Camarim_Salto1...
+[2019.08.11-01.02.48:070][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Salto1.Camarim_Salto1
+[2019.08.11-01.02.48:102][154]LogStaticMesh: Criando malha estática Camarim_Porta_Chapeu...
+[2019.08.11-01.02.48:108][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Porta_Chapeu.Camarim_Porta_Chapeu
+[2019.08.11-01.02.48:162][154]LogStaticMesh: Criando malha estática Camarim_Pandeiro...
+[2019.08.11-01.02.48:172][154]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Camarim_Pandeiro.Camarim_Pandeiro
+[2019.08.11-01.02.48:298][154]LogStaticMesh: Criando malha estática Camarim_Vaso...
+[2019.08.11-01.02.48:348][154]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/FBX/Camarim_Vaso.Camarim_Vaso
+[2019.08.11-01.02.48:385][154]LogStaticMesh: Criando malha estática Camarim_Baqueta...
+[2019.08.11-01.02.48:388][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_Baqueta.Camarim_Baqueta
+[2019.08.11-01.02.48:396][154]LogStaticMesh: Criando malha estática Camarim_Baqueta2...
+[2019.08.11-01.02.48:399][154]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Camarim_Baqueta2.Camarim_Baqueta2
+[2019.08.11-01.02.48:414][154]LogStaticMesh: Criando malha estática Camarim_pCube3...
+[2019.08.11-01.02.48:433][154]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/FBX/Camarim_pCube3.Camarim_pCube3
+[2019.08.11-01.02.48:528][154]LogStaticMesh: Criando malha estática Camarim_Violão...
+[2019.08.11-01.02.48:565][154]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/FBX/Camarim_Violão.Camarim_Violão
+[2019.08.11-01.02.48:812][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Camarim" FILE="../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/FBX/Camarim.uasset" SILENT=true
+[2019.08.11-01.02.48:831][155]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/CamarimF8B7038C4799B2D1DBC74793B33E6570.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/FBX/Camarim.uasset'
+[2019.08.11-01.02.51:854][291]AssetReimport: Importing new asset /Game/Assets/FBX/Camarim.
+[2019.08.11-01.02.53:293][404]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2019.08.11-01.02.53:300][404]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2019.08.11-01.08.57:293][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.11-01.08.57:826][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Minimal_Default_Auto23907A03C4D8AD678520010B08B837822.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.08.11-01.08.57:835][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.676
+[2019.08.11-01.08.57:835][102]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.676
+[2019.08.11-01.08.57:838][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Paredes1] ([1] browsable assets)...
+[2019.08.11-01.08.57:885][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Paredes1.Camarim_Paredes1]
+[2019.08.11-01.08.57:885][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Paredes1]
+[2019.08.11-01.08.57:906][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Paredes1_Auto253893B6A4DD3E9E53936879D7C753790.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Paredes1_Auto2.uasset'
+[2019.08.11-01.08.57:908][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/lambert1] ([1] browsable assets)...
+[2019.08.11-01.08.57:955][102]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/FBX/lambert1.lambert1]
+[2019.08.11-01.08.57:955][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/lambert1]
+[2019.08.11-01.08.57:975][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/lambert1_Auto2A7D78C8C4A8C6E5F5B6407AE072A34D7.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/lambert1_Auto2.uasset'
+[2019.08.11-01.08.57:977][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_pSphere2] ([1] browsable assets)...
+[2019.08.11-01.08.58:026][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_pSphere2.Camarim_pSphere2]
+[2019.08.11-01.08.58:026][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_pSphere2]
+[2019.08.11-01.08.58:048][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_pSphere2_Auto2CB95837D4FEABE1038E55F8A5919CDEA.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_pSphere2_Auto2.uasset'
+[2019.08.11-01.08.58:050][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_pSphere1] ([1] browsable assets)...
+[2019.08.11-01.08.58:095][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_pSphere1.Camarim_pSphere1]
+[2019.08.11-01.08.58:095][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_pSphere1]
+[2019.08.11-01.08.58:117][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_pSphere1_Auto2B38E6CBB4AEE583E7769D49758E7B508.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_pSphere1_Auto2.uasset'
+[2019.08.11-01.08.58:119][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_pCube2] ([1] browsable assets)...
+[2019.08.11-01.08.58:167][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_pCube2.Camarim_pCube2]
+[2019.08.11-01.08.58:167][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_pCube2]
+[2019.08.11-01.08.58:188][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_pCube2_Auto27F717CEF4AFFD27AC8E12AACCB909D6F.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_pCube2_Auto2.uasset'
+[2019.08.11-01.08.58:190][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_pCube1] ([1] browsable assets)...
+[2019.08.11-01.08.58:238][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_pCube1.Camarim_pCube1]
+[2019.08.11-01.08.58:239][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_pCube1]
+[2019.08.11-01.08.58:260][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_pCube1_Auto2555443A54A29D4105D5E0297A4C66BA6.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_pCube1_Auto2.uasset'
+[2019.08.11-01.08.58:263][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Mesa_pano] ([1] browsable assets)...
+[2019.08.11-01.08.58:309][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Mesa_pano.Camarim_Mesa_pano]
+[2019.08.11-01.08.58:309][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Mesa_pano]
+[2019.08.11-01.08.58:341][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Mesa_pano_Auto2DB4510B145808AFE64C6E296CE809F4E.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Mesa_pano_Auto2.uasset'
+[2019.08.11-01.08.58:344][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Default_Material] ([1] browsable assets)...
+[2019.08.11-01.08.58:392][102]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/FBX/Default_Material.Default_Material]
+[2019.08.11-01.08.58:392][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Default_Material]
+[2019.08.11-01.08.58:419][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Default_Material_Auto257E9408C4FD7E275857D68995D1A17FB.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Default_Material_Auto2.uasset'
+[2019.08.11-01.08.58:421][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Capeu] ([1] browsable assets)...
+[2019.08.11-01.08.58:468][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Capeu.Camarim_Capeu]
+[2019.08.11-01.08.58:468][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Capeu]
+[2019.08.11-01.08.58:491][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Capeu_Auto2D436CBA444C53C0044114DB477A2AB1D.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Capeu_Auto2.uasset'
+[2019.08.11-01.08.58:493][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Bola] ([1] browsable assets)...
+[2019.08.11-01.08.58:537][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Bola.Camarim_Bola]
+[2019.08.11-01.08.58:537][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Bola]
+[2019.08.11-01.08.58:562][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Bola_Auto2A924CE3E4D6BE242D2B21D810AA80735.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Bola_Auto2.uasset'
+[2019.08.11-01.08.58:565][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Buzina] ([1] browsable assets)...
+[2019.08.11-01.08.58:613][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Buzina.Camarim_Buzina]
+[2019.08.11-01.08.58:613][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Buzina]
+[2019.08.11-01.08.58:639][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Buzina_Auto2639E3C3649CAD0DDF94309BF7363A871.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Buzina_Auto2.uasset'
+[2019.08.11-01.08.58:642][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Vassoura] ([1] browsable assets)...
+[2019.08.11-01.08.58:690][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Vassoura.Camarim_Vassoura]
+[2019.08.11-01.08.58:690][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Vassoura]
+[2019.08.11-01.08.58:717][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Vassoura_Auto274093B53492711CC23A2A0A5962282DC.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Vassoura_Auto2.uasset'
+[2019.08.11-01.08.58:719][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Baralho] ([1] browsable assets)...
+[2019.08.11-01.08.58:765][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Baralho.Camarim_Baralho]
+[2019.08.11-01.08.58:765][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Baralho]
+[2019.08.11-01.08.58:790][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Baralho_Auto2901CD436400E2B78F9DFB88E9B93A0B2.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Baralho_Auto2.uasset'
+[2019.08.11-01.08.58:792][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Bambole] ([1] browsable assets)...
+[2019.08.11-01.08.58:842][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Bambole.Camarim_Bambole]
+[2019.08.11-01.08.58:842][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Bambole]
+[2019.08.11-01.08.58:871][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Bambole_Auto2A63A435E4C69860D65DBD798A5428F5C.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Bambole_Auto2.uasset'
+[2019.08.11-01.08.58:873][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Mazza] ([1] browsable assets)...
+[2019.08.11-01.08.58:924][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Mazza.Camarim_Mazza]
+[2019.08.11-01.08.58:924][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Mazza]
+[2019.08.11-01.08.58:949][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Mazza_Auto23F5F17614B09B42E1E51A4BEBCABDC46.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Mazza_Auto2.uasset'
+[2019.08.11-01.08.58:952][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Tapete] ([1] browsable assets)...
+[2019.08.11-01.08.59:001][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Tapete.Camarim_Tapete]
+[2019.08.11-01.08.59:001][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Tapete]
+[2019.08.11-01.08.59:026][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Tapete_Auto2BF67A2BC43D54C4AFD5119B2328A7845.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Tapete_Auto2.uasset'
+[2019.08.11-01.08.59:051][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Cadeira] ([1] browsable assets)...
+[2019.08.11-01.08.59:098][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Cadeira.Camarim_Cadeira]
+[2019.08.11-01.08.59:098][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Cadeira]
+[2019.08.11-01.08.59:120][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Cadeira_Auto20978E6DF47F47A91C62474A35ECFB675.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Cadeira_Auto2.uasset'
+[2019.08.11-01.08.59:122][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Prateleira] ([1] browsable assets)...
+[2019.08.11-01.08.59:171][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Prateleira.Camarim_Prateleira]
+[2019.08.11-01.08.59:171][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Prateleira]
+[2019.08.11-01.08.59:193][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Prateleira_Auto2FC969C174FCA3B5B0C8B80B648DDD901.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Prateleira_Auto2.uasset'
+[2019.08.11-01.08.59:195][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Uniciclo] ([1] browsable assets)...
+[2019.08.11-01.08.59:241][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Uniciclo.Camarim_Uniciclo]
+[2019.08.11-01.08.59:241][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Uniciclo]
+[2019.08.11-01.08.59:270][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Uniciclo_Auto2BA1105A8439200D3B39BA394DB3B1AAC.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Uniciclo_Auto2.uasset'
+[2019.08.11-01.08.59:272][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Carrafa] ([1] browsable assets)...
+[2019.08.11-01.08.59:320][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Carrafa.Camarim_Carrafa]
+[2019.08.11-01.08.59:320][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Carrafa]
+[2019.08.11-01.08.59:344][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Carrafa_Auto273A6FA4444A5F1FD1A9A138E9B157D13.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Carrafa_Auto2.uasset'
+[2019.08.11-01.08.59:347][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Cano] ([1] browsable assets)...
+[2019.08.11-01.08.59:395][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Cano.Camarim_Cano]
+[2019.08.11-01.08.59:395][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Cano]
+[2019.08.11-01.08.59:419][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Cano_Auto23F7E31854198C0C0986D90BE45E22B7A.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Cano_Auto2.uasset'
+[2019.08.11-01.08.59:421][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Gaveta] ([1] browsable assets)...
+[2019.08.11-01.08.59:468][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Gaveta.Camarim_Gaveta]
+[2019.08.11-01.08.59:468][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Gaveta]
+[2019.08.11-01.08.59:490][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Gaveta_Auto26044A0EB43579D2F24EC6E8C9B37FFA2.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Gaveta_Auto2.uasset'
+[2019.08.11-01.08.59:493][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Armario] ([1] browsable assets)...
+[2019.08.11-01.08.59:538][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Armario.Camarim_Armario]
+[2019.08.11-01.08.59:538][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Armario]
+[2019.08.11-01.08.59:600][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Armario_Auto2907A332D4D20365FEA6B51A42B6FD020.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Armario_Auto2.uasset'
+[2019.08.11-01.08.59:602][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Salto] ([1] browsable assets)...
+[2019.08.11-01.08.59:650][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Salto.Camarim_Salto]
+[2019.08.11-01.08.59:650][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Salto]
+[2019.08.11-01.08.59:678][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Salto_Auto205507B124C7782587226B5A891EF394B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Salto_Auto2.uasset'
+[2019.08.11-01.08.59:680][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Batom] ([1] browsable assets)...
+[2019.08.11-01.08.59:727][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Batom.Camarim_Batom]
+[2019.08.11-01.08.59:727][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Batom]
+[2019.08.11-01.08.59:747][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Batom_Auto28C0AEA4E46D2E5BF50E5BB9E80E2C0C7.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Batom_Auto2.uasset'
+[2019.08.11-01.08.59:749][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Salto1] ([1] browsable assets)...
+[2019.08.11-01.08.59:794][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Salto1.Camarim_Salto1]
+[2019.08.11-01.08.59:794][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Salto1]
+[2019.08.11-01.08.59:817][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Salto1_Auto2980E497040CC2753813F29A112D77023.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Salto1_Auto2.uasset'
+[2019.08.11-01.08.59:819][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Porta_Chapeu] ([1] browsable assets)...
+[2019.08.11-01.08.59:866][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Porta_Chapeu.Camarim_Porta_Chapeu]
+[2019.08.11-01.08.59:866][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Porta_Chapeu]
+[2019.08.11-01.08.59:919][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Porta_Chapeu_Auto2A431ECD6403A1956F6FD7E9DCB4FD10B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Porta_Chapeu_Auto2.uasset'
+[2019.08.11-01.08.59:921][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Pandeiro] ([1] browsable assets)...
+[2019.08.11-01.08.59:968][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Pandeiro.Camarim_Pandeiro]
+[2019.08.11-01.08.59:968][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Pandeiro]
+[2019.08.11-01.08.59:990][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Pandeiro_Auto247701265468A8FF0002A08ACFF98788B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Pandeiro_Auto2.uasset'
+[2019.08.11-01.08.59:993][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Vaso] ([1] browsable assets)...
+[2019.08.11-01.09.00:039][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Vaso.Camarim_Vaso]
+[2019.08.11-01.09.00:039][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Vaso]
+[2019.08.11-01.09.00:066][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Vaso_Auto22322B9D141FBCA628E5331BD4D6A4A30.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Vaso_Auto2.uasset'
+[2019.08.11-01.09.00:068][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Baqueta] ([1] browsable assets)...
+[2019.08.11-01.09.00:115][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Baqueta.Camarim_Baqueta]
+[2019.08.11-01.09.00:115][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Baqueta]
+[2019.08.11-01.09.00:135][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Baqueta_Auto2EEA927944FB218BEC8778CB8ADA991C4.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Baqueta_Auto2.uasset'
+[2019.08.11-01.09.00:137][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Baqueta2] ([1] browsable assets)...
+[2019.08.11-01.09.00:183][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Baqueta2.Camarim_Baqueta2]
+[2019.08.11-01.09.00:183][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Baqueta2]
+[2019.08.11-01.09.00:204][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Baqueta2_Auto2496FCDAD4C95500A19E9CF95A391CF34.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Baqueta2_Auto2.uasset'
+[2019.08.11-01.09.00:206][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_pCube3] ([1] browsable assets)...
+[2019.08.11-01.09.00:255][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_pCube3.Camarim_pCube3]
+[2019.08.11-01.09.00:255][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_pCube3]
+[2019.08.11-01.09.00:277][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_pCube3_Auto22905840244F7013792E5568538768F3E.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_pCube3_Auto2.uasset'
+[2019.08.11-01.09.00:279][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FBX/Camarim_Violão] ([1] browsable assets)...
+[2019.08.11-01.09.00:325][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/FBX/Camarim_Violão.Camarim_Violão]
+[2019.08.11-01.09.00:325][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FBX/Camarim_Violão]
+[2019.08.11-01.09.00:352][102]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Camarim_Violão_Auto2EE9691EC4E9DB239B1B485BF5376BDF2.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Autosaves/Game/Assets/FBX/Camarim_Violão_Auto2.uasset'
+[2019.08.11-01.09.00:354][102]LogFileHelpers: Auto-saving content packages took 2.517
+[2019.08.11-01.35.01:995][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-01.35.02:261][583]LogActorFactory: Actor Factory created Camarim_Violão
+[2019.08.11-01.35.03:247][688]LogActorFactory: Actor Factory created Camarim_Violão
+[2019.08.11-01.35.05:229][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-01.35.06:872][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-01.35.08:298][272]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.11-01.35.15:823][151]Cmd: TRANSACTION UNDO
+[2019.08.11-01.35.15:823][151]LogEditorTransaction: Undo Scale Actors
+[2019.08.11-01.35.24:328][136]Cmd: TRANSACTION UNDO
+[2019.08.11-01.35.24:328][136]LogEditorTransaction: Undo Scale Actors
+[2019.08.11-01.35.45:050][560]Cmd: TRANSACTION UNDO
+[2019.08.11-01.35.45:050][560]LogEditorTransaction: Undo Scale Actors
+[2019.08.11-01.35.59:069][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-01.36.02:014][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-01.36.02:040][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-01.36.02:040][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-01.36.02:040][534]PIE: New page: Sessão de PIE : Minimal_Default (10/08/2019 19:36:02)
+[2019.08.11-01.36.02:040][534]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.11-01.36.02:045][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004775s)
+[2019.08.11-01.36.02:046][534]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.11-01.36.02:046][534]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2019.08.11-01.36.02:046][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005911s)
+[2019.08.11-01.36.02:177][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.11-01.36.02:196][534]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.11-01.36.02:205][534]LogInit: FAudioDevice initialized.
+[2019.08.11-01.36.02:205][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-01.36.02:238][534]LogLoad: Game class is 'GamemodeReal_C'
+[2019.08.11-01.36.02:240][534]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.10-22.36.02
+[2019.08.11-01.36.02:240][534]LogWorld: Bringing up level for play took: 0.001005
+[2019.08.11-01.36.02:253][534]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-01.36.02:253][534]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.08.11-01.36.02:253][534]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-01.36.02:254][534]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.08.11-01.36.02:254][534]PIE: Momento de início de reprodução no editor para /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,133
+[2019.08.11-01.36.02:255][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-01.36.17:435][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-01.36.17:436][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-01.36.17:469][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-01.36.17:469][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.11-01.36.17:613][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-01.36.17:618][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.08.11-01.36.17:665][344]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.11-01.36.18:682][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-01.36.18:915][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.08.11-01.36.21:766][456]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2019.08.11-01.36.21:930][456]LogSlate: Window 'CircoProj - Unreal Editor' being destroyed
+[2019.08.11-01.36.22:158][457]Cmd: QUIT_EDITOR
+[2019.08.11-01.36.23:090][457]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.11-01.36.23:114][457]LogExit: Preparing to exit.
+[2019.08.11-01.36.24:073][457]LogExit: Editor shut down
+[2019.08.11-01.36.24:075][457]LogExit: Transaction tracking system shut down
+[2019.08.11-01.36.24:369][457]LogExit: Object subsystem successfully closed.
+[2019.08.11-01.36.24:402][457]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.11-01.36.24:417][457]LogD3D11RHI: Shutdown
+[2019.08.11-01.36.24:417][457]LogD3D11RHI: CleanupD3DDevice
+[2019.08.11-01.36.24:418][457]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.11-01.36.24:418][457]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.11-01.36.24:418][457]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.11-01.36.24:418][457]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.11-01.36.24:418][457]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.11-01.36.24:418][457]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.11-01.36.24:553][457]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.11-01.36.24:587][457]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (650)
+[2019.08.11-01.36.24:587][457]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.08.11-01.36.24:587][457]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.08.11-01.36.24:587][457]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.08.11-01.36.24:587][457]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.08.11-01.36.24:587][457]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.08.11-01.36.24:591][457]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.08.11-01.36.24:591][457]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.08.11-01.36.24:591][457]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module MeshBuilder (632)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.11-01.36.24:592][457]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.11-01.36.24:593][457]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.11-01.36.24:594][457]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.11-01.36.25:310][457]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.11-01.36.25:311][457]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.11-01.36.25:312][457]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.11-01.36.25:356][457]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.11-01.36.25:356][457]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.11-01.36.25:356][457]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.11-01.36.25:356][457]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.11-01.36.25:356][457]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.11-01.36.25:356][457]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.11-01.36.25:358][457]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.11-01.36.25:358][457]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.11-01.36.25:358][457]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.11-01.36.25:358][457]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.11-01.36.25:358][457]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.11-01.36.25:359][457]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.11-01.36.25:359][457]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.11-01.36.25:360][457]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.11-01.36.25:361][457]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.11-01.36.25:361][457]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.11-01.36.25:366][457]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.11-01.36.25:466][457]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.11-01.36.25:467][457]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.11-01.36.25:468][457]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.11-01.36.25:469][457]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.11-01.36.25:470][457]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.11-01.36.25:571][457]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.11-01.36.25:672][457]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.11-01.36.25:672][457]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.11-01.36.25:673][457]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.11-01.36.25:673][457]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.11-01.36.25:673][457]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.11-01.36.25:673][457]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.11-01.36.25:673][457]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.11-01.36.25:675][457]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.11-01.36.25:675][457]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.11-01.36.25:675][457]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.11-01.36.25:676][457]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.11-01.36.25:676][457]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.11-01.36.25:679][457]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.11-01.36.25:680][457]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.11-01.36.25:681][457]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.11-01.36.25:681][457]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.11-01.36.25:681][457]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.11-01.36.25:681][457]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.11-01.36.25:685][457]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.11-01.36.25:775][457]LogDerivedDataCache: Shutdown
+[2019.08.11-01.36.25:775][457]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.11-01.36.25:775][457]LogXGEController: Cleaning working directory: C:/Users/win10/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.11-01.36.25:775][457]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.11-01.36.25:775][457]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.11-01.36.25:776][457]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.11-01.36.25:789][457]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.11-01.36.25:789][457]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.11-01.36.25:789][457]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.11-01.36.25:789][457]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.11-01.36.25:789][457]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.11-01.36.25:797][457]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.11-01.36.25:797][457]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.11-01.36.25:802][457]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.11-01.36.25:802][457]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.11-01.36.25:840][457]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.11-01.36.25:842][457]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.11-01.36.25:842][457]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.11-01.36.25:844][457]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.11-01.36.25:844][457]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.11-01.36.25:846][457]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.11-01.36.25:847][457]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.11-01.36.25:847][457]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08E94733-412F-CEF8-4947-F4BFC99DD04D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=ea1284004a3d440e75e3f8934c903b41%7Ca8d794f1d9f34272ad178387e878e443%7Ca50a87be-755a-4ebc-94b2-dba4dcd24bcb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.11-01.36.25:858][457]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.11-01.36.25:861][457]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.11-01.36.25:863][457]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.11-01.36.25:869][457]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.11-01.36.25:869][457]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.11-01.36.25:870][457]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.11-01.36.25:870][457]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.11-01.36.25:870][457]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.11-01.36.25:871][457]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.11-01.36.25:871][457]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.11-01.36.25:871][457]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.11-01.36.25:871][457]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.11-01.36.25:872][457]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.11-01.36.25:883][457]LogExit: Exiting.
+[2019.08.11-01.36.25:922][457]Log file closed, 08/10/19 22:36:25
+>>>>>>> Stashed changes
