@@ -1,0 +1,1198 @@
+﻿Log file open, 08/13/19 01:39:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CircoProj
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.719592
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.13-04.39.35:488][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.13-04.39.35:489][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.13-04.39.35:489][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.13-04.39.35:489][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.13-04.39.35:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:489][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:491][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.13-04.39.35:491][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.13-04.39.35:492][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.13-04.39.35:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.13-04.39.35:493][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.13-04.39.35:493][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.13-04.39.35:569][  0]LogHAL: Display: Platform has ~ 8 GB [8571179008 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.13-04.39.35:569][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.13-04.39.35:569][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.13-04.39.35:569][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.13-04.39.35:570][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.13-04.39.35:589][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.13-04.39.35:589][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.13-04.39.35:589][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Config/Windows/Engine.ini]
+[2019.08.13-04.39.35:589][  0]LogInit: Computer: DESKTOP-KEOB954
+[2019.08.13-04.39.35:589][  0]LogInit: User: win10
+[2019.08.13-04.39.35:589][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.13-04.39.35:589][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.13-04.39.35:589][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.08.13-04.39.35:589][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.13-04.39.35:589][  0]LogMemory: Process Physical Memory: 97.40 MB used, 97.40 MB peak
+[2019.08.13-04.39.35:589][  0]LogMemory: Process Virtual Memory: 88.96 MB used, 88.96 MB peak
+[2019.08.13-04.39.35:590][  0]LogMemory: Physical Memory: 5006.27 MB used,  3167.85 MB free, 8174.11 MB total
+[2019.08.13-04.39.35:590][  0]LogMemory: Virtual Memory: 4656.38 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.08.13-04.39.35:656][  0]LogInit: Using OS detected language (pt-BR).
+[2019.08.13-04.39.35:656][  0]LogInit: Using OS detected locale (pt-BR).
+[2019.08.13-04.39.36:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.13-04.39.36:021][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.13-04.39.36:022][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.13-04.39.36:022][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.13-04.39.36:041][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.13-04.39.36:335][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.13-04.39.36:336][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.13-04.39.41:322][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.13-04.39.41:322][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.13-04.39.41:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2019.08.13-04.39.41:544][  0]LogD3D11RHI:       2007/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.13-04.39.41:566][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.13-04.39.41:566][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.13-04.39.41:566][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.13-04.39.41:576][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.13-04.39.41:576][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.13-04.39.41:576][  0]LogWindows: EnumDisplayDevices:
+[2019.08.13-04.39.41:577][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2019.08.13-04.39.41:577][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.08.13-04.39.41:577][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.08.13-04.39.41:578][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.08.13-04.39.41:578][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2019.08.13-04.39.41:578][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.08.13-04.39.41:578][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.08.13-04.39.41:578][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.08.13-04.39.41:638][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.13-04.39.41:642][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-04.39.41:642][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-04.39.41:642][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-04.39.41:651][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.13-04.39.42:680][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.13-04.39.42:702][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.13-04.39.42:724][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.13-04.39.42:745][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.13-04.39.42:812][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.13-04.39.42:834][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.13-04.39.42:856][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.13-04.39.42:878][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.13-04.39.42:888][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.13-04.39.43:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.13-04.39.43:064][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.13-04.39.43:161][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.13-04.39.43:161][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.13-04.39.43:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.13-04.39.43:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.13-04.39.43:232][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.13-04.39.43:252][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.13-04.39.43:272][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.13-04.39.43:349][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.13-04.39.43:420][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.13-04.39.43:420][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.13-04.39.43:420][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.13-04.39.43:456][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.13-04.39.43:533][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Intermediate/Shaders/WorkingDirectory/15800/).
+[2019.08.13-04.39.43:533][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/win10/AppData/Local/Temp/UnrealShaderWorkingDir/58C46CEA4E63173F2DF4A99A10E35805/'.
+[2019.08.13-04.39.43:536][  0]LogXGEController: Cleaning working directory: C:/Users/win10/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.13-04.39.43:537][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.13-04.39.43:537][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.13-04.39.43:537][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.13-04.39.46:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.13-04.39.47:339][  0]LogDerivedDataCache: Loaded boot cache 0.84s 71MB C:/Users/win10/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.13-04.39.47:339][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/win10/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.13-04.39.47:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.13-04.39.47:339][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.13-04.39.47:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.13-04.39.47:339][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.13-04.39.47:354][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.13-04.39.47:354][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.13-04.39.47:354][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.13-04.39.47:366][  0]LogDerivedDataCache: Using Local data cache path C:/Users/win10/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.13-04.39.47:366][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.13-04.39.47:366][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.13-04.39.47:399][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.13-04.39.47:400][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.13-04.39.47:477][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.13-04.39.49:619][  0]LogAssetRegistry: FAssetRegistry took 0.0397 seconds to start up
+[2019.08.13-04.39.50:117][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.13-04.39.50:351][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.13-04.39.50:351][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.13-04.39.50:351][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.13-04.39.50:351][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.13-04.39.50:352][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.13-04.39.50:365][  0]LogNetVersion: CircoProj 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 875541996)
+[2019.08.13-04.39.51:317][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.209862 seconds
+[2019.08.13-04.39.51:327][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.13-04.39.51:327][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.13-04.39.51:327][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.13-04.40.17:565][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.13-04.40.17:580][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.13-04.40.17:705][  0]SourceControl: Controle de origem desativado
+[2019.08.13-04.40.17:705][  0]SourceControl: Controle de origem desativado
+[2019.08.13-04.40.17:708][  0]SourceControl: Controle de origem desativado
+[2019.08.13-04.40.17:710][  0]SourceControl: Controle de origem desativado
+[2019.08.13-04.40.17:989][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.13-04.40.18:118][  0]LogOcInput: OculusInput pre-init called
+[2019.08.13-04.40.18:989][  0]LogEngine: Initializing Engine...
+[2019.08.13-04.40.18:991][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.13-04.40.18:992][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.13-04.40.19:265][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.13-04.40.19:285][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.13-04.40.19:314][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.13-04.40.19:330][  0]LogInit: FAudioDevice initialized.
+[2019.08.13-04.40.19:330][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.13-04.40.19:556][  0]LogDerivedDataCache: Saved boot cache 0.23s 71MB C:/Users/win10/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.13-04.40.19:572][  0]LogInit: Texture streaming: Enabled
+[2019.08.13-04.40.19:602][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.13-04.40.19:643][  0]LogInit: Transaction tracking system initialized
+[2019.08.13-04.40.19:677][  0]BlueprintLog: New page: Carregar Editor
+[2019.08.13-04.40.19:900][  0]LocalizationService: Localization service is disabled
+[2019.08.13-04.40.20:747][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/' took 0.03s
+[2019.08.13-04.40.20:747][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.13-04.40.20:747][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.13-04.40.22:673][  0]SourceControl: Controle de origem desativado
+[2019.08.13-04.40.22:673][  0]Cmd: MAP LOAD FILE="../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.13-04.40.22:673][  0]LightingResults: New page: Compilação de Iluminação
+[2019.08.13-04.40.22:677][  0]MapCheck: New page: Verificação de Mapa
+[2019.08.13-04.40.22:677][  0]LightingResults: New page: Compilação de Iluminação
+[2019.08.13-04.40.22:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.08.13-04.40.23:211][  0]LogLinker: Warning: Asset '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.13-04.40.23:230][  0]LogLinker: Warning: Asset '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.13-04.40.23:233][  0]LogLinker: Warning: Asset '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.13-04.40.23:242][  0]LogLinker: Warning: Asset '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.13-04.40.25:189][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.13-04.40.25:237][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.13-04.40.25:358][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.08.13-04.40.25:358][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.13-04.40.25:358][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,182ms to complete.
+[2019.08.13-04.40.25:358][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.686
+[2019.08.13-04.40.25:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-04.40.25:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-04.40.25:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-04.40.25:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-04.40.25:820][  0]LogCollectionManager: Loaded 0 collections in 0.002668 seconds
+[2019.08.13-04.40.25:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Collections/' took 0.01s
+[2019.08.13-04.40.25:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Developers/win10/Collections/' took 0.01s
+[2019.08.13-04.40.25:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Collections/' took 0.01s
+[2019.08.13-04.40.25:862][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.13-04.40.25:877][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2732 classes and 659 folders.
+[2019.08.13-04.40.25:886][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.13-04.40.26:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.26:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.27:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.28:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.28:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.28:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-04.40.29:701][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.13-04.40.29:709][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.13-04.40.29:795][  0]LogSlate: Took 0.067973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.13-04.40.29:809][  0]LogSlate: Took 0.012809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.13-04.40.29:830][  0]LogSlate: Took 0.013941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.13-04.40.30:104][  0]LogRenderer: Reallocating scene render targets to support 768x544 Format 10 NumSamples 1 (Frame:1).
+[2019.08.13-04.40.30:318][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.13-04.40.30:318][  0]LogLoad: (Engine Initialization) Total time: 85.55 seconds
+[2019.08.13-04.40.30:319][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.13-04.40.30:386][  0]LogAssetRegistry: Asset discovery search completed in 40.7894 seconds
+[2019.08.13-04.40.30:389][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.13-04.40.30:389][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.08.13-04.40.30:391][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.13-04.40.30:538][  0]LogSlate: Took 0.127198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.13-04.40.33:380][  9]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.13-04.40.35:688][ 16]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/' took 5.34s
+[2019.08.13-04.41.28:398][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-04.41.28:533][551]AssetReimport: New page: Outstanding source content changes 22:41:28
+[2019.08.13-04.41.28:544][552]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Apoio_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.28:995][553]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Apoio_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.29:513][554]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Apoio_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.30:036][555]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Armario_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.30:887][556]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Armario_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.31:451][557]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Armario_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.32:185][558]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Bambole_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.32:627][559]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Bambole_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.33:262][560]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Bambole_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.33:670][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Baralho_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.33:814][562]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Baralho_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.33:982][563]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Baralho_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.34:141][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Batom_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.34:280][565]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Batom_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.34:417][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Batom_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.34:734][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Buzina_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.35:161][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Buzina_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.35:651][569]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Buzina_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.36:209][570]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabide2_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.37:366][571]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabide2_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.37:906][572]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabide2_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.38:598][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabideoro_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.38:973][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabideoro_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.39:397][575]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabideoro_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.39:869][576]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cano_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.40:233][577]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cano_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.40:636][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cano_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.41:011][579]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Capeu_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.41:435][580]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Capeu_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.41:996][581]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Capeu_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.42:827][582]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cigarro_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.44:621][583]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cigarro_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.45:277][584]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cigarro_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.46:062][585]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cinzeiro_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.46:444][586]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cinzeiro_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.46:865][587]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cinzeiro_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.47:296][588]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Coelho_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.49:046][589]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Coelho_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.49:589][590]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Coelho_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.50:645][591]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/EspelhoPeq_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.51:022][592]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/EspelhoPeq_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.51:452][593]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/EspelhoPeq_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.51:862][594]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Flor_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.52:658][595]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Flor_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.53:159][596]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Flor_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.53:774][597]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Foto_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.54:326][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Foto_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.54:742][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Foto_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.55:124][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Garrafa_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.55:615][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Garrafa_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.56:047][602]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Garrafa_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.56:468][603]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Livro_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.41.57:989][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Livro_DefaultMaterial_Normal.png)
+[2019.08.13-04.41.58:685][605]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Livro_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.41.59:824][606]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mazza_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.00:380][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mazza_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.00:881][608]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mazza_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.01:666][609]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mesa_pano_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.02:916][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mesa_pano_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.03:421][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mesa_pano_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.04:398][612]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly1_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.05:444][613]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly1_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.06:036][614]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly1_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.06:898][615]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly2_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.08:039][616]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly2_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.08:601][617]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly2_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.09:436][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pandeiro_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.09:890][619]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pandeiro_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.10:383][620]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pandeiro_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.10:967][621]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/pCylinder1_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.11:169][622]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/pCylinder1_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.11:291][623]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/pCylinder1_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.11:497][624]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pia_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.11:708][625]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pia_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.11:795][626]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pia_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.12:010][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Porta_Chapeu_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.12:151][628]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Porta_Chapeu_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.12:247][629]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Porta_Chapeu_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.12:355][630]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Salto_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.12:470][631]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Salto_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.12:550][632]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Salto_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.12:636][633]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Tapete_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.13:498][634]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Tapete_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.13:674][635]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Tapete_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.14:203][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Uniciclo_DefaultMaterial_BaseColor.png)
+[2019.08.13-04.42.14:518][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Uniciclo_DefaultMaterial_Normal.png)
+[2019.08.13-04.42.14:690][638]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Uniciclo_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.08.13-04.42.14:876][639]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Unreal Engine 4.json)
+[2019.08.13-04.42.14:880][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.13-04.42.24:647][639]LogSlate: Window 'Opções de DataTable' being destroyed
+[2019.08.13-04.42.24:775][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.08.13-04.42.24:894][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.08.13-04.42.24:928][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.13-04.42.25:192][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Apoio_DefaultMaterial_BaseColor79158B0E46A4FB6435E6AE9263FD6C06.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Apoio_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.25:839][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Apoio_DefaultMaterial_Normal8BA38B20456E213949C9C3A1D9F3EF3B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Apoio_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.26:107][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Apoio_DefaultMaterial_OcclusionR96A0A32D4C73CBA4D55B9C89F49466C9.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Apoio_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.26:571][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Armario_DefaultMaterial_BaseColo59436FFB48718CDB00AEEB9273B6A9AA.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Armario_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.27:275][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Armario_DefaultMaterial_Normal55437131448400EA6AFCEA8343145DDB.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Armario_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.27:630][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Armario_DefaultMaterial_Occlusio0A015C4C4DE508902A045A8A5B9C2B86.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Armario_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.27:886][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Bambole_DefaultMaterial_BaseColo3E1BF00A455BEB5247240CB1A7B19853.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Bambole_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.28:513][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Bambole_DefaultMaterial_Normal926C5FBB41FD6F66E99508ADFFA82275.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Bambole_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.28:792][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Bambole_DefaultMaterial_Occlusio7E7ECBDD45F23FC61E2890AEED23459B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Bambole_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.28:900][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Baralho_DefaultMaterial_BaseColoC6AA920A43BD189B4F9B0DB51681BC93.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Baralho_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.29:082][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Baralho_DefaultMaterial_NormalCDE0ECBF4DF55EDCDD264CA9CFD3DE8D.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Baralho_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.29:167][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Baralho_DefaultMaterial_Occlusio36253C0D416C198E39CB6A96F998B768.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Baralho_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.29:261][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Batom_DefaultMaterial_BaseColor00E201E44E63D654B21D3CB1881E8B80.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Batom_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.29:441][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Batom_DefaultMaterial_Normal73F8268E4E64C09A25AA4FBA76106AB7.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Batom_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.29:545][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Batom_DefaultMaterial_OcclusionRCCBB232949245704247EBC838FC2FEBC.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Batom_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.29:820][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Buzina_DefaultMaterial_BaseColor86CFEB194CB55C5AB2F2159D8685A7B8.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Buzina_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.30:474][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Buzina_DefaultMaterial_Normal80B5D0FB454D86EEC5E3189D5AFE98F3.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Buzina_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.30:770][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Buzina_DefaultMaterial_OcclusionE7AF782241077810587E67A58CF3D720.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Buzina_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.31:180][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cabide2_DefaultMaterial_BaseColo09CD7C1648C6DC7E698574AF041C98FB.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabide2_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.31:899][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cabide2_DefaultMaterial_NormalCC54F827451F99A6794064B0A5D7C680.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabide2_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.32:240][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cabide2_DefaultMaterial_Occlusio4B0281914202137616397CBA94EBF22C.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabide2_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.32:514][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cabideoro_DefaultMaterial_BaseCo51C0F34B45E44E39FF9CBEAB1C248507.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabideoro_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.33:143][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cabideoro_DefaultMaterial_Normal97C5C3AC41BDE8DE47B43FBF385E3AF6.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabideoro_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.33:391][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cabideoro_DefaultMaterial_Occlus001C3E72479890016B9BB6AFDC59D8ED.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cabideoro_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.33:640][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cano_DefaultMaterial_BaseColorE70A4FC2495261546E4F1CAF9CB4332B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cano_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.34:152][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cano_DefaultMaterial_NormalF0ACF13F4F650B58323DC2AD5535A352.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cano_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.34:399][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cano_DefaultMaterial_OcclusionRoCD2E12064E43ED0A9C258086CF775F00.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cano_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.34:643][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Capeu_DefaultMaterial_BaseColorCA0222224A296E5A12FD269A5EA305E7.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Capeu_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.35:430][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Capeu_DefaultMaterial_Normal33569DC0462B39CA071BE199A2401147.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Capeu_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.35:893][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Capeu_DefaultMaterial_OcclusionR063E2B36446701BAC8BBD3AA47DD64B4.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Capeu_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.36:516][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cigarro_DefaultMaterial_BaseColoF69FCD3349EEB4315D6ED4A99352DAA8.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cigarro_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.37:340][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cigarro_DefaultMaterial_NormalC6F3A99E44A2BD1C1B8541BABC520C41.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cigarro_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.37:743][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cigarro_DefaultMaterial_OcclusioD13B50904D86E7C0C65B6AB93CD824D0.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cigarro_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.37:988][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cinzeiro_DefaultMaterial_BaseCol48D45C2D4E8B9D92D3BB1ABA391A5884.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cinzeiro_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.38:659][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cinzeiro_DefaultMaterial_Normal3F18E93A4D96E019A01698BA8F98E3AF.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cinzeiro_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.38:911][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Cinzeiro_DefaultMaterial_OcclusiD84D583641D1D639D87674A3C1666672.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Cinzeiro_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.39:507][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Coelho_DefaultMaterial_BaseColor041891374E2CE68C9B8C7EA254898D4E.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Coelho_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.40:402][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Coelho_DefaultMaterial_Normal9F054C3D4E281DCB58ABCA97443AB615.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Coelho_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.40:884][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Coelho_DefaultMaterial_Occlusion079B0A584AA5B24A9C417FB5F0664C27.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Coelho_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.41:132][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/EspelhoPeq_DefaultMaterial_BaseC1F41290C435BE8A07DC282BEF07A1F9F.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/EspelhoPeq_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.41:777][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/EspelhoPeq_DefaultMaterial_Norma242B74F74A047176BFAC3A95BF517D7B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/EspelhoPeq_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.42:030][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/EspelhoPeq_DefaultMaterial_Occlu7A1CA92D460875FA5F4060B8AF9D0FAF.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/EspelhoPeq_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.42:457][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Flor_DefaultMaterial_BaseColor08C178E041B7F6952300FF93B161DF04.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Flor_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.43:129][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Flor_DefaultMaterial_Normal2F50073342A5FB68A17B06B5DC28B0F4.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Flor_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.43:486][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Flor_DefaultMaterial_OcclusionRoD9FFC96D485987C76BBD0C8AE62C5D53.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Flor_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.43:770][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Foto_DefaultMaterial_BaseColor58CE58824B8B7A2A55CD949585722010.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Foto_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.44:411][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Foto_DefaultMaterial_NormalB0E2FEC24FBF913CBAC43D802DA313CB.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Foto_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.44:678][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Foto_DefaultMaterial_OcclusionRoE2DEE03B4F73F2D902C879AC9F648AE5.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Foto_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.44:931][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Garrafa_DefaultMaterial_BaseColo247CE3C64E88ED409896718D61082188.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Garrafa_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.45:561][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Garrafa_DefaultMaterial_Normal9085BE9049603C3791CA12861E036FFC.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Garrafa_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.45:836][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Garrafa_DefaultMaterial_Occlusio0ADFF4FA4AA7CDF6378B6290BE241E6C.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Garrafa_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.46:358][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Livro_DefaultMaterial_BaseColor489DD3634C7F8D86E7A1E482E4AA2334.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Livro_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.47:093][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Livro_DefaultMaterial_Normal01970FAB4AEDDC430059FCB5BAEEA260.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Livro_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.47:510][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Livro_DefaultMaterial_OcclusionR24E0400C499904894A5F6DBB25FA145D.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Livro_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.47:860][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Mazza_DefaultMaterial_BaseColorC086AFAA42C017261A776C81631FE140.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mazza_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.48:592][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Mazza_DefaultMaterial_Normal85E345534AF749CBF515F780BBD3989B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mazza_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.48:934][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Mazza_DefaultMaterial_OcclusionR82B8129A4C03887CA2B9CD82469EB67D.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mazza_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.49:491][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Mesa_pano_DefaultMaterial_BaseCoAAA6213444C192CAFA6D6C97FFBA1F33.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mesa_pano_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.50:166][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Mesa_pano_DefaultMaterial_NormalB88AC36F49639260B73F99AD4F99FAAE.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mesa_pano_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.50:669][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Mesa_pano_DefaultMaterial_Occlus6C0F26914C5029260DAA4A8BCAC7A3C3.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Mesa_pano_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.51:189][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/nurbsToPoly1_DefaultMaterial_Bas547E15F04E9848D8DE186A94637EAB9B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly1_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.51:954][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/nurbsToPoly1_DefaultMaterial_NorB7EBCA104DD905605FA45198E1F51BE0.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly1_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.52:439][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/nurbsToPoly1_DefaultMaterial_Occ45BB519B499A34CA25E40886E655CE23.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly1_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.52:965][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/nurbsToPoly2_DefaultMaterial_Bas29CA4EC04A704F7431EAD298F8E03297.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly2_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.53:671][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/nurbsToPoly2_DefaultMaterial_NorF5E0FD1A41F6108FDFEE269FDCBDEB2B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly2_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.54:173][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/nurbsToPoly2_DefaultMaterial_Occ0944A33544CE3DB7807013A52F4541C5.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/nurbsToPoly2_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.54:426][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Pandeiro_DefaultMaterial_BaseColC0EDBFD845EC7E605D8E22BB49ED7EE8.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pandeiro_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.55:070][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Pandeiro_DefaultMaterial_Normal7913D95044B14D890B9362B64EF21E03.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pandeiro_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.55:418][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Pandeiro_DefaultMaterial_Occlusi844DF65E4A61714D96CE4CBD7D7D87CD.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pandeiro_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.55:496][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/pCylinder1_DefaultMaterial_BaseCF351A04249C023A8571AD7BCE46C591B.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/pCylinder1_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.55:581][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/pCylinder1_DefaultMaterial_Norma35386F92471378889B0AE7B7758E6E95.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/pCylinder1_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.55:650][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/pCylinder1_DefaultMaterial_OccluCF89EE354C045A1278D488AD2113C133.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/pCylinder1_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.55:718][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Pia_DefaultMaterial_BaseColor5278E991483368E16456DBA89ABF67BD.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pia_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.55:769][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Pia_DefaultMaterial_NormalC4FB56C94CB6E86BCEA898804A279301.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pia_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.55:814][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Pia_DefaultMaterial_OcclusionRouD94710D84307EBFE3A7BB4BA8077D359.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Pia_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.55:870][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Porta_Chapeu_DefaultMaterial_Bas82D25F874CB0CA1CF9155D8F2AD1EDAB.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Porta_Chapeu_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.55:945][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Porta_Chapeu_DefaultMaterial_NorEB4608C64BD0591BE99FB6A945CF94EF.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Porta_Chapeu_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.55:991][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Porta_Chapeu_DefaultMaterial_Occ34463B0D483B5AB993D1B2AD133D1464.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Porta_Chapeu_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.56:039][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Salto_DefaultMaterial_BaseColorAAF1ACD54589F7FE7E9DABAC47E31D29.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Salto_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.56:082][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Salto_DefaultMaterial_Normal06C2E70446ED06D3A25BF5AAD02E70A4.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Salto_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.56:119][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Salto_DefaultMaterial_OcclusionRBC4915AF4EF97D97C26B018B4DA43F51.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Salto_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.56:303][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Tapete_DefaultMaterial_BaseColor0C1FE7524ED76765DD5FA29A8F888C19.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Tapete_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.56:627][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Tapete_DefaultMaterial_Normal68E59DE645B480D51A53AB8E843C3533.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Tapete_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.56:800][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Tapete_DefaultMaterial_Occlusion1C42B5BD49C29FB9F4C1238F7EE889EA.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Tapete_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.42.56:982][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Uniciclo_DefaultMaterial_BaseColA316ADAF4635837CA6DC718F57DE2025.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Uniciclo_DefaultMaterial_BaseColor.uasset'
+[2019.08.13-04.42.57:166][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Uniciclo_DefaultMaterial_Normal382735A5418F400FEBA4C893DBF3E79C.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Uniciclo_DefaultMaterial_Normal.uasset'
+[2019.08.13-04.42.57:283][640]LogSavePackage: Moving '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Saved/Uniciclo_DefaultMaterial_Occlusi0275491D445DA528823107B4C599138C.tmp' to '../../../../../../Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Uniciclo_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Apoio_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Apoio_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Apoio_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Armario_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Armario_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Armario_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Bambole_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Bambole_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Bambole_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Baralho_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Baralho_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Baralho_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Batom_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Batom_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Batom_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Buzina_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:294][881]AssetReimport: Importing new asset /Game/Assets/Textures/Buzina_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Buzina_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cabide2_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cabide2_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cabide2_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cabideoro_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cabideoro_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cabideoro_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cano_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cano_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cano_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Capeu_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Capeu_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Capeu_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cigarro_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cigarro_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cigarro_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cinzeiro_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cinzeiro_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Cinzeiro_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Coelho_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Coelho_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Coelho_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/EspelhoPeq_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/EspelhoPeq_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/EspelhoPeq_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Flor_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Flor_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Flor_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Foto_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Foto_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Foto_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Garrafa_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Garrafa_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Garrafa_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Livro_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Livro_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Livro_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:295][881]AssetReimport: Importing new asset /Game/Assets/Textures/Mazza_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Mazza_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Mazza_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Mesa_pano_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Mesa_pano_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Mesa_pano_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/nurbsToPoly1_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/nurbsToPoly1_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/nurbsToPoly1_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/nurbsToPoly2_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/nurbsToPoly2_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/nurbsToPoly2_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Pandeiro_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Pandeiro_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Pandeiro_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/pCylinder1_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/pCylinder1_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/pCylinder1_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Pia_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Pia_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Pia_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Porta_Chapeu_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Porta_Chapeu_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Porta_Chapeu_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Salto_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Salto_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Salto_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Tapete_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Tapete_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Tapete_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Uniciclo_DefaultMaterial_BaseColor.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Uniciclo_DefaultMaterial_Normal.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Uniciclo_DefaultMaterial_OcclusionRoughnessMetallic.
+[2019.08.13-04.43.00:296][881]AssetReimport: Importing new asset /Game/Assets/Textures/Unreal_Engine_4.
+[2019.08.13-04.43.00:296][881]AssetReimport: Failed to import file C:/Users/win10/Desktop/2-Semestre/JogoCirco/UnrealJam/CircoProj/Content/Assets/Textures/Unreal Engine 4.json.
+[2019.08.13-04.43.20:636][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-04.43.30:334][352]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.219 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.13-04.46.16:870][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-04.47.14:988][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.08.13-04.47.15:147][ 24]LogSlate: Window 'CircoProj - Unreal Editor' being destroyed
+[2019.08.13-04.47.15:341][ 25]Cmd: QUIT_EDITOR
+[2019.08.13-04.47.15:535][ 25]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.13-04.47.15:555][ 25]LogExit: Preparing to exit.
+[2019.08.13-04.47.15:829][ 25]LogExit: Editor shut down
+[2019.08.13-04.47.15:829][ 25]LogExit: Transaction tracking system shut down
+[2019.08.13-04.47.16:139][ 25]LogExit: Object subsystem successfully closed.
+[2019.08.13-04.47.16:158][ 25]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.13-04.47.16:181][ 25]LogD3D11RHI: Shutdown
+[2019.08.13-04.47.16:181][ 25]LogD3D11RHI: CleanupD3DDevice
+[2019.08.13-04.47.16:181][ 25]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.13-04.47.16:181][ 25]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.13-04.47.16:181][ 25]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.13-04.47.16:182][ 25]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.13-04.47.16:182][ 25]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.13-04.47.16:182][ 25]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.13-04.47.16:356][ 25]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.13-04.47.16:388][ 25]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.08.13-04.47.16:388][ 25]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.08.13-04.47.16:388][ 25]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.08.13-04.47.16:388][ 25]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.13-04.47.16:389][ 25]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.13-04.47.16:390][ 25]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.13-04.47.16:391][ 25]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.13-04.47.16:391][ 25]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.13-04.47.16:391][ 25]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.13-04.47.16:391][ 25]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.13-04.47.17:353][ 25]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.13-04.47.17:354][ 25]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.13-04.47.17:397][ 25]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.13-04.47.17:398][ 25]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.13-04.47.17:399][ 25]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.13-04.47.17:403][ 25]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.13-04.47.17:588][ 25]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.13-04.47.17:589][ 25]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.13-04.47.17:690][ 25]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.13-04.47.17:791][ 25]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.13-04.47.17:791][ 25]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.13-04.47.17:792][ 25]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.13-04.47.17:792][ 25]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.13-04.47.17:792][ 25]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.13-04.47.17:793][ 25]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.13-04.47.17:793][ 25]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.13-04.47.17:795][ 25]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.13-04.47.17:797][ 25]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.13-04.47.17:798][ 25]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.13-04.47.17:798][ 25]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.13-04.47.17:798][ 25]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.13-04.47.17:798][ 25]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.13-04.47.17:898][ 25]LogDerivedDataCache: Shutdown
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.13-04.47.17:898][ 25]LogXGEController: Cleaning working directory: C:/Users/win10/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.13-04.47.17:898][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.13-04.47.17:899][ 25]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.13-04.47.17:900][ 25]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.13-04.47.17:900][ 25]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.13-04.47.17:901][ 25]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.13-04.47.17:901][ 25]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.13-04.47.17:908][ 25]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.13-04.47.17:908][ 25]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.13-04.47.17:909][ 25]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.13-04.47.17:909][ 25]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.13-04.47.17:909][ 25]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.13-04.47.17:909][ 25]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.13-04.47.17:910][ 25]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.13-04.47.17:910][ 25]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.13-04.47.17:928][ 25]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.13-04.47.17:928][ 25]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.13-04.47.17:928][ 25]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B81EC702E-45C0-A58B-E8EC-9EB7A7289572%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=ea1284004a3d440e75e3f8934c903b41%7Ca8d794f1d9f34272ad178387e878e443%7Ca50a87be-755a-4ebc-94b2-dba4dcd24bcb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.13-04.47.17:944][ 25]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.13-04.47.17:945][ 25]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.13-04.47.17:947][ 25]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.13-04.47.17:953][ 25]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.13-04.47.17:953][ 25]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.13-04.47.17:954][ 25]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.13-04.47.17:954][ 25]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.13-04.47.17:954][ 25]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.13-04.47.17:955][ 25]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.13-04.47.17:965][ 25]LogExit: Exiting.
+[2019.08.13-04.47.17:998][ 25]Log file closed, 08/13/19 01:47:17
